@@ -1,0 +1,6 @@
+#data
+CovidData.csv
+LocationData.csv
+
+@PyBuilder
+.ipynb_checkpoints
