@@ -4,3 +4,9 @@ LocationData.csv
 
 @PyBuilder
 .ipynb_checkpoints
+
+#settings
+settings.txt
+
+#output
+/.html
